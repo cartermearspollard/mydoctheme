@@ -1,0 +1,91 @@
+﻿Bibliography
+
+
+Antoniak, Maria. “Little Mallet Wrapper,” 2020.
+
+
+Aughenbaugh, John. “Byron White.” In The First Amendment Encyclopedia. 2009.
+
+
+Board of Education v. Allen, 392 U.S. 236 (1968).
+
+
+Board of Regents v. New Left Education Project, 404 U.S. 541 (1972).
+
+
+Bowers v. Hardwick, 478 U.S. 186 (1986).
+
+
+Brandenburg v. Ohio, 395 U.S. 444 (1969).
+
+
+Branzburg v. Hayes, 408 U.S. 665 (1972).
+
+
+Butz v. Economou, 438 U.S. 478 (1978).
+
+
+Camara v. Municipal Court, 387 U.S. 523 (1967).
+
+
+Connick v. Myers, 461 U.S. 138 (1983).
+
+
+Finkel, Jerry Rose, Trond Grenager, and Christopher Manning. “Incorporating Non-Local Information into Information Extraction Systems by Gibbs Sampling.” In 43nd Annual Meeting of the Association for Computational Linguistics, 2005.
+
+
+Gaffney v. Cummings, 412 U.S. 735 (1973).
+
+
+Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Religion and Politics. New York: Panthon Books, 2012.
+
+
+Harper, Charlie. “Visualizing Data with Bokeh and Pandas.” Programming Historian 7 (2018). https://doi.org/10.46430/phen0081.
+
+
+Herber v. Lando, 441 U.S. 153 (1979).
+
+
+Hutchinson, Dennis J. The Man Who Was Once Whizzer White: A Portrait of Justice Byron R. White. 1st ed. New York: Free Press, 1998.
+
+
+Lavin, Matthew J. “Analyzing Documents with TF-IDF.” Programming Historian 8 (2019). https://doi.org/10.46430/phen0082.
+
+
+McCallum, Andrew Kachites. “MALLET: A Machine Learning for Language Toolkit,” 2002. http://mallet.cs.umass.edu.
+
+
+McLaughlin v. Florida, 379 U.S. 184 (U.S. Supreme Court 1964).
+
+
+Miranda v. Arizona, 384 U.S. 436 (1966).
+
+
+Qi, Peng, Yuhao Zhang, Yuhui Zhang, Jason Bolton, and Christopher Manning. “Stanza: A Natural Language Processing Toolkit for Many Human Languages.” In 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, 2020.
+
+
+Roe v. Wade, 410 U.S. 113 (1973).
+
+
+Spaeth, Harold J., Lee Epstein, Andrew D. Martin, Jeffery A. Segal, Theodore J. Ruger, and Sara C. Benesh. “2022 Supreme Court Database,” 2022. http://Supremecourtdatabase.org.
+
+
+Swain v. Alabama, 380 U.S. 202 (1965).
+
+
+United States v. Reidel, 402 U.S. 351 (1971).
+
+
+Varsava, Nina. “Computational Legal Studies, Digital Humanities, and Textual Analysis.” In Computational Legal Studies, by Ryan Whalen, 29–52. Edward Elgar Publishing, 2020. https://doi.org/10.4337/9781788977456.00007.
+
+
+———. “Elements of Judicial Style: A Quantitative Guide to Neil Gorsuch’s Opinion Writing.” New York University Law Review 93 (2018).
+
+
+Walsh, Melanie. Introduction to Cultural Analytics and Python, 2021. https://doi.org/10.5281/zenodo.4411250.
+
+
+Wood v. Strickland, 420 U.S. 308 (1975).
+
+
+Zurcher v. Stanford Daily, 436 U.S. 547 (1978).
